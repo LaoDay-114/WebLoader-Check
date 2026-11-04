@@ -49,7 +49,7 @@ function isWebLoaderEnv() {
 
 // In your javascript code.
 const env = isWebLoaderEnv();
-if (env.webLoader) {
+if (env.webloader) {
     // is WebLoader
 }
 

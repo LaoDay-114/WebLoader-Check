@@ -22,3 +22,5 @@ if (env.webloader) {
 ```
 
 This way you can check if you're being loaded by the official branch's WebLoader！
+
+![GPLv3](./LICENSE.png)
