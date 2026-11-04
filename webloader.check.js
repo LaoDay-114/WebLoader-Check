@@ -49,7 +49,7 @@ function isWebLoaderEnv() {
 
 // In your javascript code.
 const env = isWebLoaderEnv();
-if (env.WebLoader) {
+if (env.webLoader) {
     // is WebLoader
 }
 
@@ -57,5 +57,3 @@ if (env.WebLoader) {
 
 // This library has everything ready for you.
 // Everything is ready, just need to call it up.
-
-// (Actually, this library can also be used to detect other things...)
